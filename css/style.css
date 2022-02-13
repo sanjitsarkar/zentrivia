@@ -9,3 +9,8 @@
   background-color: var(--dark-color-7);
   object-fit: contain;
 }
+
+::marker {
+  color: var(--dark-color-2);
+  font-weight: bold;
+}
