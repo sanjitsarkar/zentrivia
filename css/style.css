@@ -14,3 +14,25 @@
   color: var(--dark-color-2);
   font-weight: bold;
 }
+
+.options .btn {
+  padding: 1rem 0.8rem;
+  font-size: 1rem;
+}
+
+.hero-section-button {
+  padding: 0.6rem 1rem;
+}
+@media (max-width: 470px) {
+  .hero-section-title {
+    font-size: 4rem;
+  }
+  .rules-section {
+    margin: 2rem;
+  }
+}
+@media (max-width: 315px) {
+  .hero-section-title {
+    font-size: 3.5rem;
+  }
+}
